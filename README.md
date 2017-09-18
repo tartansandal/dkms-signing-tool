@@ -14,3 +14,6 @@ a tool.
 * disabling previously added keys
 * detect unsigned dkms modules and prompt for resigning
 * search for and sign all dkms modules with the same key
+* prompt for insertion of encrypted USB drive before signing
+* umount and prompt for removal of USB drive after signing
+
